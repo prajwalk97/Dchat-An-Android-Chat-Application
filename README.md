@@ -1,6 +1,6 @@
 # Dchat
 
-## This is a new generation Chatting App developed by the students of RVCE under the guidane of Prof. Anisha B S
+## This is a new generation Chatting App developed by the students of RVCE under the guidance of Prof. Anisha B S
 
 ##Developers Info:
 
